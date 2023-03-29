@@ -91,4 +91,4 @@ Replace ‘127.0.0.1’ to ‘0.0.0.0’
     `mysql -u example_user -h 172.31.13.110 -p`
     `Show databases`
 
-    ![Connect remotely and show databases](./images/Connect%20remotely%20with%20example_user%20and%20showing%20databases.jp
+    ![Connect remotely and show databases](./images/Connect%20remotely%20with%20example_user%20and%20showing%20databases.jpg)
