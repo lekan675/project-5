@@ -23,7 +23,7 @@ On mysql-server, install MySQL Server software.
 
 On mysql-client, install MySQL client software
 
-`sudo intall mysql-client`
+`sudo install mysql-client`
 
 ![install mqsql-client](./images/install%20mysql-client.jpg)
 
